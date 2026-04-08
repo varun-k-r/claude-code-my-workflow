@@ -17,6 +17,7 @@
 - **Verify after** -- compile/render and confirm output at the end of every task
 - **Single source of truth** -- Beamer `.tex` is authoritative; Quarto `.qmd` derives from it
 - **Quality gates** -- nothing ships below 80/100
+- * **Data visualization** -- all charts, plots, and figures must follow the `clean-data-viz` skill (Tufte + Healy principles, Okabe-Ito colorblind-safe palette, no chartjunk, direct labeling)
 - **[LEARN] tags** -- when corrected, save `[LEARN:category] wrong → right` to MEMORY.md
 
 ---
